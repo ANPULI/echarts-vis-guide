@@ -1,0 +1,11 @@
+{
+    "scripts": {
+        "start": "npx parcel index.html"
+    },
+    "dependencies": {
+        "echarts": "^4.5.0"
+    },
+    "devDependencies": {
+        "parcel": "^1.12.4"
+    }
+}
